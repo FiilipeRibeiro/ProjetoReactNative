@@ -64,6 +64,7 @@ npm install
 ```
 
 Então podemos rodar o projeto:
+
 ```
 npm start
 ```
